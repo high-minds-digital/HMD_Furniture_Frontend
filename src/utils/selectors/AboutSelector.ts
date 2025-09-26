@@ -1,0 +1,16 @@
+export const Aboutselector = {
+  section: "py-20 bg-[#eff2f1]",
+  container: "container mx-auto px-4",
+  grid: "grid lg:grid-cols-2 gap-16 items-center",
+  title: "text-4xl font-semibold text-[#2f2f2f] mb-6",
+  subtitle: "text-[#6a6a6a] text-sm leading-6 mb-12",
+  featureGrid: "grid grid-cols-1 sm:grid-cols-2 gap-8",
+  featureItem: "flex items-start space-x-4",
+  featureIcon: "w-8 h-8 bg-[#34736e33] rounded-full flex items-center justify-center flex-shrink-0",
+  featureImg: "w-5 h-5",
+  featureTitle: "font-semibold text-[#2f2f2f] text-sm mb-2",
+  featureDesc: "text-[#6a6a6a] text-sm leading-5",
+  imageWrapper: "relative",
+  image: "w-full h-auto object-cover rounded-2xl",
+  decoration: "absolute -top-8 -left-8 w-32 h-32 opacity-20",
+};
