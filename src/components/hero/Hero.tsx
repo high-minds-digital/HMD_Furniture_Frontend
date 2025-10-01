@@ -6,7 +6,7 @@ import HeroImage from "./HeroImage";
 const Hero = () => {
   return (
     <section className={selectors.section}>
-      <div className={selectors.gradient} />
+      <div />
       <div className={selectors.container}>
         <div className={selectors.grid}>
           
